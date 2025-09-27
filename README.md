@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Advanced React & System Design**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**  
-- 📫 Reach me at **yourmail@example.com**  
+- 📫 Reach me at **YOUR_EMAIL@EXAMPLE.COM**  
 - ⚡ Fun fact: **I turn ☕ coffee into clean code**  
 
 ---
@@ -43,15 +43,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -59,20 +59,20 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
 
 ## 🌐 Connect with me  
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/gopan-modak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href=" https://github.com/gopanmodak " target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:gopanhridoy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
