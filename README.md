@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Advanced React & System Design**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**  
-- 📫 Reach me at **YOUR_EMAIL@EXAMPLE.COM**  
+- 📫 Reach me at **gopanhridoy@gmail.com**  
 - ⚡ Fun fact: **I turn ☕ coffee into clean code**  
 
 ---
