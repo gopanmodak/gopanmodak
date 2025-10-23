@@ -1,6 +1,6 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="banner"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="40px" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm GoPan MoDak</h1>
